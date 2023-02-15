@@ -14,4 +14,4 @@ this is a simple web project, deployment can be on any web server or even local 
 please fork this repository and then issue pull request for review.
 
 ###copyright
-2023.git.training.
+2023.git.training. All right reserved.
