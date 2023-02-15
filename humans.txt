@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Dharmee Thesiya      dthesiya@aakashinformatics.com
 
 # THANKS
 
